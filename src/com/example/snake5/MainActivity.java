@@ -11,7 +11,7 @@ import android.view.WindowManager;
 import android.view.View.MeasureSpec;
 import android.view.View.OnTouchListener;
 import android.widget.Toast;
-
+// comment by chizz
 public class MainActivity extends Activity  {
 	static int height; 
 	static int width;
